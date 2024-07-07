@@ -1,0 +1,103 @@
+Section 1: It's super easy to get Started
+1. Welcome Challenge!
+2. Welcome! What is Tableau &amp; Course Overview
+3. Installation
+4. Exercise - Get Excited!
+5. Get the Datasets here
+6. Extra Resources
+Section 2: Tableau Basics: Your First Bar chart
+7. The Business Challenge - Who Gets the Annual Reward?
+8. Connecting Tableau to a Data File - CSV File
+9. Navigating Tableau
+10. Creating Calculated Fields
+11. Adding Colors
+12. Adding Labels and Formatting
+13. Exporting Your Worksheet
+14. Get The Viz
+Quiz 1: Tableau Basics
+Section 3: Time series, Aggregation, and Filters
+15. Section Intro
+16. Working with Data Extracts in Tableau
+17. Working with Time Series
+18. Understanding Aggregation, Granularity, and Level of Detail
+19. Creating an Area Chart &amp; Learning About Highlighting
+20. Adding a Filter and Quick Filter
+Quiz 2: Timeseries, Aggregation, and Filters
+Section 4: Maps, Scatterplots, and Your First Dashboard
+21. Section Intro
+22. Relationships vs Joins
+23. Joining Data in Tableau
+24. Creating a Map, Working with Hierarchies
+25. Creating a Scatter Plot, Applying Filters to Multiple Worksheets
+26. Let's Create our First Dashboard!
+27. Adding an Interactive Action - Filter
+28. Adding an Interactive Action - Highlighting
+Quiz 3: Maps, Scatterplots, and Your First Dashboard
+Section 5: Joining, Blending and Relationships; PLUS: Dual Axis Charts
+29. Section Intro
+30. Understanding how LEFT, RIGHT, INNER, and OUTER Joins Work
+31. Joins With Duplicate Values
+32. Joining on Multiple Fields
+33. The Showdown: Joining Data v.s. Blending Data in Tableau
+34. Data Blending in Tableau
+35. Dual Axis Chart
+36. Creating Calculated Fields in a Blend (Advanced Topic)
+37. New challenge and dataset!
+38. The Data Model
+39. Working with Relationships in Tableau
+40. Section Recap
+Quiz 4: Joining and Blending Data, PLUS: Dual Axis Charts
+Section 6: Table Calculations, Advanced Dashboards, Storytelling
+41. Section Intro
+42. Downloading the Dataset and Connecting to Tableau
+43. Mapping: how to Set Geographical Roles
+44. Creating Table Calculations for Gender
+45. Creating Bins and Distributions For Age
+46. Leveraging the Power of Parameters
+47. How to Create a Tree Map Chart
+48. Creating a Customer Segmentation Dashboard
+49. Advanced Dashboard Interactivity
+50. Analyzing the Customer Segmentation Dashboard *
+51. Creating a Storyline
+Quiz 5: Table Calculations, Advanced Dashboards, Storytelling
+Section 7: Advanced Data Preparation
+52. Section Intro
+53. What Format Your Data Should Be In
+54. Data Interpreter
+55. Pivot
+56. Splitting a Column into Multiple Columns
+57. MetaData Grid
+58. Fixing Geographical Data Errors in Tableau
+Quiz 6: Advanced Data Preparation
+Section 8: Clusters, Custom Territories, Design Features
+59. The Challenge: Startup Expansion Analytics
+60. Custom Territories Via Groups
+61. Custom Territories Via Geographic Roles
+62. Adding a Highlighter
+63. Clustering In Tableau
+64. Cross-Database Joins
+65. Modeling With Clusters
+66. Saving Your Clusters
+67. New Mobile Features
+68. Section Recap
+Quiz 7: Clusters, Custom Territories, Design Features
+Section 9: Tableau Toolkit
+69. Section Intro
+70. Data From PDF Files
+71. Connecting to PDF
+72. Connecting to Spatial Files
+73. Joining to Spatial Files
+74. Putting it All Together
+75. Step and Jump Line Chart
+76. Viz in Tooltip
+Section 10: Conclusion
+77. Course overview and roadmap download
+78. THANK YOU Video
+79. EXTRA: Interview With A Graduate Of This Course
+80. Some Additional Resources!!
+Section 11: Congratulations!! Don't forget your Prize :)
+81. Huge Congrats for completing the challenge!
+82. Bonus: How To UNLOCK Top Salaries (Live Training)
+
+
+https://www.artofvisualization.com/pages/tableau
